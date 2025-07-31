@@ -1,0 +1,50 @@
+body{
+    background-image: url(pm.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    font-size: 50px;
+    margin-top: -10px;
+    margin-bottom: 100px;
+    text-shadow: 2px 2px 3px #000000;
+    -webkit-text-stroke: 0.8px #ffffff;
+}
+
+h3{
+    font-family: 'poppins', sans-serif;
+    margin: 30px;
+    font-size: 22px;
+    -webkit-text-stroke: 0.9px #000000;
+    text-shadow: 2px 2px 3px #000000;
+}
+
+p{
+    font-family: 'poppins', sans-serif;
+    margin: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-shadow: 2px 2px 3px #000000;
+}
+
+.left{
+    text-align: justify;
+    color: red;
+    -webkit-text-stroke: 0.6px #000000;
+}
+
+.medium{
+    text-align: center;
+    color: #ffffff;
+    -webkit-text-stroke: 0.4px #000000;
+}
+
+.right{
+    text-align: end;
+    color: blue;
+    -webkit-text-stroke: 0.6px #000000;
+}
